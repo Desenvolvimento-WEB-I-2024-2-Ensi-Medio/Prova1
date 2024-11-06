@@ -13,13 +13,20 @@ Caso haja suspeita de descumprimento das regras, o professor tem plena autonomia
 O código a seguir possui diversos erros que devem ser corrigidos. O objetivo é ajustar o código para que o CRUD funcione corretamente. Você deve identificar e corrigir todos os erros para deixá-lo funcional e próximo de um exemplo real. Analise cada linha e ajuste conforme necessário.
 
 ## Como deve ficar: 
+![Como deve Ficar](https://github.com/Desenvolvimento-WEB-I-2024-2-Ensi-Medio/Prova1/blob/main/Arquivos/Funcional.gif?raw=true)
 
+- Além disso, há uma pasta de nome "Arquivos", onde tem screenshots das telas.
+- A prova será avaliada de acordo com o seu progresso na resolução dos problemas.
 ---
 
 ## Instruções para Responder
 
 - Analise o código acima e encontre os erros de sintaxe, lógica, inconsistências de nomenclatura e erros de digitação.
 - Corrija cada um dos erros de maneira que o código funcione conforme esperado, implementando o CRUD completo para o gerenciamento de itens.
+---
+
+## Instruções para entrega
+- Compacte o arquivo em um zip e envie via AVA.
 ---
 
 
